@@ -2,7 +2,7 @@
 
 ### Em suma:
 * Estudo Ciência da Computação na Universidade Federal de Santa Maria (2º semestre);
-* Uso principalmente C e Python - mas quero expandir essa lista;
+* Uso principalmente C/C++ e Python - mas quero expandir essa lista;
 * Gosto de tecnologia e de aprender coisas absurdamente aleatórias;
 * Estou me preparando para participar da Maratona de Programação.
 
