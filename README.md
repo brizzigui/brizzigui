@@ -9,7 +9,7 @@
 ### Coisas úteis que eu fiz:
 * [Bot renovador de livros (UFSM)](https://github.com/brizzigui/renovador_biblioteca)
 
-### Outras coisas:
+### Estatísticas:
 
 
 [![brizzigui's GitHub stats](https://github-readme-stats.vercel.app/api?username=brizzigui&theme=midnight-purple&show_icons=true&hide_rank=true&border_color=7f3ace)](https://github.com/anuraghazra/github-readme-stats)
