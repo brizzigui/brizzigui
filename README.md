@@ -13,4 +13,4 @@
 
 
 [![brizzigui's GitHub stats](https://github-readme-stats.vercel.app/api?username=brizzigui&theme=midnight-purple&show_icons=true&hide_rank=true&border_color=7f3ace)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzigui&theme=midnight-purple&exclude_repo=copy_provas_antigas&border_color=7f3ace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzigui&theme=midnight-purple&exclude_repo=provas_injustas&border_color=7f3ace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
