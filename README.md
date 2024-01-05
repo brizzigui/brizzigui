@@ -8,6 +8,7 @@
 
 ### Coisas úteis que eu fiz:
 * [Bot renovador de livros (UFSM)](https://github.com/brizzigui/renovador_biblioteca)
+* [Minijogo de Elementos Químicos (Ununennium)](https://ununennium.vercel.app/)
 
 ### Estatísticas:
 
