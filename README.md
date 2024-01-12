@@ -8,6 +8,7 @@
 
 ### Coisas úteis que eu fiz:
 * [Bot renovador de livros (UFSM)](https://github.com/brizzigui/renovador_biblioteca)
+* [Ununennium - jogo da tabela periódica](https://ununennium.vercel.app/)
 
 ### Estatísticas:
 
