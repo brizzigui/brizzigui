@@ -2,7 +2,7 @@
 
 ### Em suma:
 * Estudo Ciência da Computação na Universidade Federal de Santa Maria (4º semestre);
-* Uso principalmente C/C++ e Python - mas quero expandir essa lista;
+* Uso principalmente C/C++, Python e Javascript - mas quero expandir essa lista;
 * Gosto de tecnologia e de aprender coisas absurdamente aleatórias;
 * Estou me preparando para participar da Maratona de Programação.
 
@@ -10,6 +10,7 @@
 * [Bot renovador de livros (UFSM)](https://github.com/brizzigui/renovador_biblioteca)
 * [Ununennium - jogo da tabela periódica](https://ununennium.vercel.app/)
 * [Prefeitômetro - quiz eleitoral](https://www.prefeitometro.com)
+* [Trakka Map - aplicativo de mapa "fog of war"](https://github.com/brizzigui/trakka)
 
 ### Estatísticas:
 
