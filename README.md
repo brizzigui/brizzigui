@@ -1,7 +1,7 @@
 # Opa! Aqui é o Brizzi.
 
 ### Em suma:
-* Estudo Ciência da Computação na Universidade Federal de Santa Maria (5º semestre);
+* Estudo Ciência da Computação na Universidade Federal de Santa Maria (6º semestre);
 * Uso principalmente C/C++, Python e Javascript - mas quero expandir essa lista;
 * Gosto de tecnologia e de aprender coisas absurdamente aleatórias;
 * Estou me preparando para participar da Maratona de Programação.
