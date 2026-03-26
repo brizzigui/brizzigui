@@ -12,6 +12,11 @@
 * [Ununennium - jogo da tabela periódica](https://ununennium.vercel.app/)
 * [Prefeitômetro - quiz eleitoral](https://www.prefeitometro.brizzigui.com)
 * [Trakka Map - aplicativo de mapa "fog of war"](https://github.com/brizzigui/trakka)
+* [Trilo - seu planejador de viagens inteligente](https://trilo.brizzigui.com/)
+
+### Artigos que eu publiquei:
+* [AutoIPA: development of an online platform to facilitate the use of automated phonetic transcription using Artificial Intelligence](https://sol.sbc.org.br/index.php/eniac/article/view/38819/38592) (ENIAC 2025)
+* [Sinalização vista de cima: desenvolvimento de um modelo de visão computacional para classificação da conservação de marcações rodoviárias](https://sol.sbc.org.br/index.php/eramiars/article/view/39429/39201) (ERAMIA 2025)
 
 ### Estatísticas:
 
