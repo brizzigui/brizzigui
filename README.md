@@ -1,11 +1,13 @@
 # Opa! Aqui é o Brizzi.
 
 ### Em suma:
-* Estudo Ciência da Computação na Universidade Federal de Santa Maria (7º semestre);
-* Uso principalmente C/C++, Python e Javascript - mas quero expandir essa lista;
+* Trabalho como Engenheiro de Software na Amazon;
+* Estudo Ciência da Computação na Universidade Federal de Santa Maria (8º semestre - quase me formando!);
+* Tenho interesse em Cibersegurança.
+* Uso principalmente C/C++, Python e Javascript;
 * Gosto de tecnologia e de aprender coisas absurdamente aleatórias;
 * Estou me preparando para participar da Maratona de Programação;
-* Tenho interesse em Cibersegurança.
+
 
 ### Coisas úteis que eu fiz:
 * [Bot renovador de livros (UFSM)](https://github.com/brizzigui/renovador_biblioteca)
